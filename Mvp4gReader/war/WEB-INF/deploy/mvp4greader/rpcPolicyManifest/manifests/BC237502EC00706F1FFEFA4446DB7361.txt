@@ -1,0 +1,2 @@
+serviceClass: com.vshershnev.client.UserService
+path: 9FE108049F02CC0ED5ED697AA368BB38.gwt.rpc

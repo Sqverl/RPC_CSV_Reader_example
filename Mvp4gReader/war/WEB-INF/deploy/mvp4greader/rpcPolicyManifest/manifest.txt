@@ -1,0 +1,2 @@
+# Module mvp4greader
+# RPC service class, partial path of RPC policy file
